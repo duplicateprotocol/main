@@ -1,0 +1,109 @@
+Duplicate Protocol
+A Volume-Based Reward Distribution System
+
+Version 1.02 | October 22, 2025
+
+Abstract
+Duplicate introduces a novel tokenomics model that distributes rewards based on trading volume rather than market capitalization. The protocol implements an automated airdrop system that rewards holders every 7 minutes, creating a sustainable and fair distribution mechanism that benefits from both buying and selling activity.
+
+This document outlines the technical specifications, economic model, and distribution mechanics of the Duplicate protocol.
+
+1. Introduction
+Traditional reward distribution systems often favor large holders and are vulnerable to market manipulation. Duplicate addresses these issues by implementing a volume-based reward mechanism that distributes value from all trading activity—both purchases and sales—to qualifying token holders.
+
+The protocol requires a minimum holding of 2,000,000 $duplicate tokens to qualify for automatic rewards, ensuring committed participation while maintaining accessibility.
+
+1.2 Team Philosophy & Anonymity
+The Duplicate team has made the deliberate decision to remain anonymous. This choice is rooted in our belief that the project should be judged purely on its merit, mechanics, and community—not on the prior accomplishments or reputations of individual team members.
+
+By removing the influence of personal credentials and past achievements, we shift focus entirely to what matters: the innovation of the protocol itself, the strength of the community it fosters, and the tangible results it delivers to participants. This approach prevents bias and allows the project to succeed or fail based solely on its own value proposition.
+
+We believe that true decentralization and community ownership begin with removing the cult of personality that often surrounds crypto projects. Duplicate is not about who built it—it's about what it does and the community that sustains it.
+
+1.3 Experimental Foundation
+Duplicate is fundamentally an experiment rooted in behavioral science studies examining perceived value, commitment psychology, and community formation dynamics. Research in behavioral economics has demonstrated that regular, predictable rewards create stronger psychological attachment and perceived value than sporadic or one-time distributions.
+
+The protocol's design specifically leverages principles of:
+
+Endowment Effect: The frequent reward mechanism increases perceived ownership value
+Commitment & Consistency: Minimum holding requirements create psychological investment
+Social Proof: Visible holder counts and statistics reinforce community participation
+Loss Aversion: Selling below the 2M threshold means forfeiting future passive rewards
+These mechanisms, when combined with the 7-minute reward cycle, are designed to foster strong community cohesion and what behavioral scientists describe as "cult-like" holding behavior—where the act of holding becomes part of participants' identity and social belonging, rather than purely financial speculation.
+
+2. Token Economics
+2.1 Supply Structure
+The $duplicate token operates on a fixed supply model of 1,000,000,000 (1 billion) tokens. This fixed supply ensures scarcity and prevents inflationary pressure on the token value. No additional tokens can be minted beyond the initial supply.
+
+2.2 Transaction Tax
+All buy and sell transactions are subject to a 7% tax. This tax serves as the primary mechanism for generating rewards distributed to qualifying holders. The tax structure is designed to:
+
+Create sustainable reward pools from trading activity
+Incentivize long-term holding over short-term speculation
+Generate value from both upward and downward price movements
+2.3 Minimum Holding Requirement
+To qualify for reward distribution, wallets must maintain a minimum balance of 2,000,000 $duplicate tokens (0.2% of total supply). This requirement ensures that rewards are distributed to committed participants while remaining accessible to a broad base of holders.
+
+3. Distribution Mechanism
+3.1 Automated Airdrop System
+The Duplicate protocol implements a fully automated reward distribution system that executes every 7 minutes. Unlike traditional claiming mechanisms that require manual transactions, rewards are automatically airdropped to qualifying wallets without any action required from the holder.
+
+3.2 Volume-Based Calculation
+Rewards are calculated and distributed based on trading volume during each 7-minute cycle. The system collects the 7% transaction tax from all buys and sells, then distributes this pool proportionally to all qualifying holders. Key features include:
+
+Proportional distribution based on holding size above the 2M minimum
+Real-time calculation every 7 minutes
+No manual claiming required—completely passive income
+Benefits from all market activity, including sell pressure
+3.3 Distribution Cycle
+The 7-minute distribution cycle creates 205 reward events per day, ensuring frequent and consistent returns for holders. This rapid cycle allows participants to see tangible results from their holdings in near real-time, creating a more engaging and transparent reward system.
+
+4. Technical Specifications
+Token Name
+
+Duplicate
+
+Token Symbol
+
+$duplicate
+
+Total Supply
+
+1,000,000,000
+
+Transaction Tax
+
+7%
+
+Distribution Frequency
+
+Every 7 Minutes
+
+Minimum Holdings
+
+2,000,000 tokens
+
+Daily Distributions
+
+205 cycles
+
+Active Holders
+
+12,847
+
+5. Protocol Advantages
+5.1 Volume-Driven Model
+Unlike market cap-based systems, the volume-driven approach ensures that rewards are generated from actual trading activity. This creates a more sustainable and predictable reward mechanism that isn't solely dependent on price appreciation.
+
+5.2 Zero-Friction Distribution
+The automated airdrop system eliminates the need for manual claiming transactions, saving holders gas fees and reducing friction in the reward collection process. This passive income model provides a superior user experience compared to traditional claiming mechanisms.
+
+5.3 Sell Pressure as Revenue
+Perhaps most notably, the protocol benefits from selling activity. While traditional tokenomics view sells as purely negative events, Duplicate transforms sell pressure into revenue for remaining holders, creating a unique dynamic where all market activity generates rewards.
+
+6. Conclusion
+The Duplicate protocol represents an evolution in tokenomics design, addressing key limitations of traditional reward distribution systems. By implementing a volume-based, automated airdrop mechanism with frequent distribution cycles, the protocol creates a sustainable and fair ecosystem that rewards committed holders while remaining accessible to new participants.
+
+The fixed supply, combined with the 7% transaction tax and automated distribution system, establishes a predictable and transparent economic model that aligns the interests of all participants in the Duplicate ecosystem.
+
+© 2025 Duplicate Protocol. All rights reserved.
